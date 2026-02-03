@@ -60,9 +60,9 @@ class _PaymentScreenState extends State<PaymentScreen> {
 
     // Mobile platform - use Razorpay
     var options = {
-      'key': 'rzp_test_fUzgkYXPSl2m1P', ///// TODO: Replace with your Razorpay key id
-      'amount': 33715, // Amount in paise (₹337.15)
-      'name': 'E-Commerce App',
+      'key': 'RAZORPAY_KEY_HERE',
+      'amount': 33715,
+      'name': 'Pinnacle Shop',
       'description': 'Cart Payment',
       'prefill': {'contact': '9051776463', 'email': 'bibek@gmal.com'},
       'external': {
