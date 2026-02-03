@@ -72,6 +72,14 @@ flutter pub get
 flutter run
 
 
+## 👨‍💻 Author
+Bibek Das
+
+## 🤝 Contributions
+Contributions are welcome.
+
+⭐ If you like this project, don’t forget to star the repository!
+
 
 
 
