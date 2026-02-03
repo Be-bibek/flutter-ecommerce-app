@@ -60,11 +60,11 @@ class _PaymentScreenState extends State<PaymentScreen> {
 
     // Mobile platform - use Razorpay
     var options = {
-      'key': 'RAZORPAY_KEY_HERE', // NOTE: Razorpay keys are removed for security.
+      'key': 'rzp_test_fUzgkYXPSl2m1P', ///// TODO: Replace with your Razorpay key id
       'amount': 33715, // Amount in paise (₹337.15)
       'name': 'E-Commerce App',
       'description': 'Cart Payment',
-      'prefill': {'contact': '', 'email': 'bibek@gmal.com'},// Add via environment variables in production.
+      'prefill': {'contact': '9051776463', 'email': 'bibek@gmal.com'},
       'external': {
         'wallets': ['paytm']
       }

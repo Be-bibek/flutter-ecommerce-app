@@ -8,9 +8,10 @@ import 'package:supabase_flutter/supabase_flutter.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Supabase.initialize(
-    url: 'https://lpmwzdhmnvlytsifnvca.supabase.co',
-    anonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImxwbXd6ZGhtbnZseXRzaWZudmNhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTM3MDA2OTAsImV4cCI6MjA2OTI3NjY5MH0.DjfAMPJxL_PI1BhWiBIa-la_lh_p0DmtjXCy59OrcJA',
+    url: 'SUPABASE_PROJECT_URL',
+    anonKey: 'SUPABASE_ANON_KEY',
   );
+
   runApp(const MyApp());
 }
 
