@@ -63,6 +63,15 @@ The app delivers a smooth and responsive UI, secure authentication using **Supab
 - Supabase account
 - Razorpay test/live keys
 
+## 👨‍💻 Author
+Bibek Das
+
+## 🤝 Contributions
+Contributions are welcome.
+
+⭐ If you like this project, don’t forget to star the repository!
+
+
 ### Steps
 
 ```bash
@@ -72,13 +81,7 @@ flutter pub get
 flutter run
 
 
-## 👨‍💻 Author
-Bibek Das
 
-## 🤝 Contributions
-Contributions are welcome.
-
-⭐ If you like this project, don’t forget to star the repository!
 
 
 
