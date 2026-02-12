@@ -68,16 +68,12 @@ The app delivers a smooth and responsive UI, secure authentication using **Supab
 </tr>
 
 <tr>
-<td align="center"><b>Product Details</b><br><img src="screenshots/product.jpg" width="250"/></td>
-<td align="center"><b>profile Page</b><br><img src="screenshotscart.jpg" width="250"/></td>
+<td align="center"><b>Razorpay live</b><br><img src="Razorpay.jpg" width="250"/></td>
+<td align="center"><b>cart Page</b><br><img src="screenshotscart.jpg" width="250"/></td>
 <td align="center"><b>Favorites</b><br><img src="fav.page.jpg" width="250"/></td>
 </tr>
 
-<tr>
-<td align="center"><b>Checkout</b><br><img src="screenshots/checkout.jpg" width="250"/></td>
-<td align="center"><b>Razorpay Payment</b><br><img src="screenshots/razorpay.jpg" width="250"/></td>
-<td align="center"><b>Order Confirmation</b><br><img src="screenshots/order_success.jpg" width="250"/></td>
-</tr>
+
 </table>
 
 </div>
@@ -108,6 +104,7 @@ git clone https://github.com/your-username/flutter-ecommerce-app.git
 cd flutter-ecommerce-app
 flutter pub get
 flutter run
+
 
 
 
